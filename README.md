@@ -33,3 +33,6 @@ Refer to [this](https://help.github.com/en/articles/working-with-forks) for unde
     </td>
 </tr>
 </table>
+
+
+![Robot-Control Interface](https://github.com/MruanlPraksh/ROBOT-following-object-computer-vision-Aforge-project-/blob/master/Images%20and%20Video/UserInterface.jpg)
