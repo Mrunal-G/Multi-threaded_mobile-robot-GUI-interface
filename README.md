@@ -38,4 +38,4 @@ Refer to [this](https://help.github.com/en/articles/working-with-forks) for unde
 
 ![Robot-Control Interface](https://github.com/MruanlPraksh/ROBOT-following-object-computer-vision-Aforge-project-/blob/master/Images%20and%20Video/UserInterface.jpg)
 
-
+[Similar project of mobile robot for automation](https://www.researchgate.net/publication/323947831_Object_tracking_robot_using_adaptive_color_thresholding)
