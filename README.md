@@ -11,6 +11,13 @@ The mobile communicates to the PC using XBee module and can receive manual comma
 
 The project source code can be viewed [here](https://github.com/Mrunal-G/Mobile-Robot-computer-vision-object-detection-and-tracking-multi-threaded-user-interface/blob/master/robotics/trObject1/Submit.cs)
 
+The sample output of a red object  which is detected at different portions of the screen is shown in the interface screen, the robot is made to move and hence follow the red object. 
+- If the red object is in center of the frame but appears to be at distance, the robot will continue moving forward till the red object covers more space in the frame.
+ Meaning, how further the red object is from the mobile robot is determined by how big red object appears in the frame. If the red object appears small in the center of the frame then, it means the red object is further away from the mobile robot in the straight direction. Whereas, if the red objct appears big in the center of the frame then it means that the red object is closer to the mobile robot in the srtaight direction. 
+ 
+ - Besides, if the red object appears to on the extreme left of the frame the mobile robot turns right to move closer to the red object. Note that this is due to lateral inversion effect of camera.
+ - Similary, if the red object appears to on the extreme right of the frame the mobile robot turns left to move closer to the red object.
+
 # Support
 To report bugs, suggest improvements, or ask questions, create issues.
 To contribute improvements to this document, fork this project and create pull request! 😃
