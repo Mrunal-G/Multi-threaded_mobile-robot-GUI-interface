@@ -1,4 +1,4 @@
-# Mobile robot object detection and tracking project
+# Multi-threaded UI for Mobile robot connected to PC using XBee
 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
